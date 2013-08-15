@@ -10,7 +10,7 @@
   "Runs the application based on configuration."
   [system])
 
-(defn [stop]
+(defn stop
   "Stops a running instance fo the application"
   [system])
 
